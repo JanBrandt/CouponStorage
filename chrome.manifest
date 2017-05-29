@@ -1,0 +1,2 @@
+content     Coupon Storage    content/
+overlay chrome://messenger/content/messenger.xul chrome://couponstorage/content/myhelloworld.xul
